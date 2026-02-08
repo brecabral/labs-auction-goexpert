@@ -1,0 +1,10 @@
+POST http://localhost:8080/auction/
+Host: localhost:8080
+Content-Type: application/json
+
+{
+    "product_name": "teste",
+    "category": "teste",
+    "description": "testetesteteste",
+    "condition": 0
+}
